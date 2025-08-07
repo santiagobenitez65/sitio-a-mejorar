@@ -1,10 +1,6 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color:#23314a
     font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-    text-align: center;
 }
 
 .image {
@@ -24,4 +20,26 @@ h1 {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+.caja{
+  padding: 10px;
+  border: 2px solid #db8084;
+  margin: 20px;
+  background-color: #8fa1b1;
+  border-radius: 5px;
+}
+h2{
+    padding: 10px;
+  border: 2px solid #db8084;
+  margin: 20px;
+  background-color: #8fa1b1;
+  border-radius: 5px;
+}
+h1{
+  text-align: center;
+  padding: 10px;
+  border: 2px solid #db8084;
+  margin: 20px;
+  background-color: #8fa1b1;
+  border-radius: 5px;
 }

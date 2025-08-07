@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color:#23314a
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid #db8084;
     border-radius: 10px;
     height: 400px;
 }
@@ -16,4 +16,25 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+.caja{
+  padding: 10px;
+  border: 2px solid #db8084;
+  margin: 20px;
+  background-color: #8fa1b1;
+  border-radius: 5px;
+}
+h2{
+    padding: 10px;
+  border: 2px solid #db8084;
+  margin: 20px;
+  background-color: #8fa1b1;
+  border-radius: 5px;
+}
+h1{
+    padding: 10px;
+  border: 2px solid #db8084;
+  margin: 20px;
+  background-color: #8fa1b1;
+  border-radius: 5px;
 }

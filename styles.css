@@ -1,10 +1,10 @@
 body {
-    background-color:#23314a
+    background-color:#23314a;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .image {
-    border: 5px solid green;
+    border: 3px solid #db8084;
     border-radius: 10px;
     height: 400px;
     display: block;
@@ -14,6 +14,14 @@ body {
 
 .image:hover {
     transform: scale(1.1);
+    transition: all;
+    transition-duration: 1seg;
+}
+
+button:hover {
+    transform: scale(1.1);
+    transition: all;
+    transition-duration: 1seg;
 }
 
 .link-button {
@@ -38,6 +46,7 @@ h2{
   margin: 20px;
   background-color: #8fa1b1;
   border-radius: 5px;
+    text-align: center;
 }
 h1{
   text-align: center;
@@ -47,3 +56,4 @@ h1{
   background-color: #8fa1b1;
   border-radius: 5px;
 }
+
